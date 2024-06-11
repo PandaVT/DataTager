@@ -34,3 +34,12 @@ conda run --no-capture-output --name DataTager pip install --no-cache-dir openai
 python read_ppt.py
 python generate_ppt.py
 ```
+
+## Contacts
+
+https://x.com/data_tager
+
+https://discord.gg/GCY2Ph8Fdk
+
+![](https://raw.githubusercontent.com/PandaVT/DataTager/main/assert/wechat_group.jpg)
+
