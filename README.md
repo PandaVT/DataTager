@@ -1,7 +1,7 @@
 # DataTager
 Fine-Tune LLM Synthetic-Data application and "From Data to AGI: Unlocking the Secrets of Large Language Model"
 
-![](https://raw.githubusercontent.com/PandaVT/DataTager/main/assert/datatager_framework.png)
+![](https://raw.githubusercontent.com/PandaVT/DataTager/main/assert/DataTager_paper_Framework.png)
 
 ## Installation
 
